@@ -1,0 +1,63 @@
+/*测试注释*/
+.box{
+    border: solid 1px;
+    margin: 20px;
+    padding: 10px;
+    background-color: white;
+}
+
+body{
+    background-color: black;
+}
+.background{
+    background-color: silver;
+    margin: auto;
+    width: 1300px;
+}
+nav{
+    background-color: #252525;
+    color: #FFFFFF;
+    height: 200px;
+    display: inline;
+}
+#center{
+    text-align: center;
+    font-size: 16px;
+}
+.normal{
+    color: silver;
+    font-size: 16px;
+
+
+}
+footer{
+    color: white;
+    text-align: center;
+
+}
+button{
+    font-size: 20px;
+    width: 99%;
+    height: 46px;
+    background-color: mediumblue;
+    color: white;
+    text-align: center;
+
+}
+#table{
+    width: 100%;
+}
+
+
+
+h2,h3{
+    font-weight:normal;
+}
+#span{
+    color: blue !important;
+}
+p{
+    text-indent: 2em;
+    color: black;
+    font-size: 20px;
+    font-weight:bold;}
