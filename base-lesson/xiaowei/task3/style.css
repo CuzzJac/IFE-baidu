@@ -1,0 +1,54 @@
+
+body {
+    background-color: white;
+
+}
+
+p {
+    margin-top: 0px;
+}
+
+.content {
+
+    background-color: #eee;
+    border-color: #999;
+    padding: 20px;
+
+}
+
+.team {
+    width: 160px;
+    background-color: white;
+    float: left;
+    padding: 20px;
+}
+
+.team p {
+    width: 80px;
+    margin-left: 80px;
+    margin-top: 0px;
+}
+
+#teamP {
+    float: left;
+}
+
+.introduction {
+    background-color: white;
+    width: auto;
+    margin: 0px 140px 0px 220px;
+    padding: 20px;
+
+}
+
+.teammate {
+    background-color: white;
+    width: 80px;
+    float: right;
+    text-align: center;
+    padding: 20px 20px 0px 20px;
+}
+
+.teammate img {
+    margin-bottom: 20px;
+}
