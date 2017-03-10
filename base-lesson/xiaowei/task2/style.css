@@ -17,8 +17,13 @@ body{
 nav{
     background-color: #252525;
     color: #FFFFFF;
-    height: 200px;
+overflow: auto;
+    text-align: end;
+
+}
+.nav li{
     display: inline;
+
 }
 #center{
     text-align: center;
